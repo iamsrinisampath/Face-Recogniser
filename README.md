@@ -1,5 +1,5 @@
 # Streaming Video Recorder
-Use OpenCV-Python and Flask to create a web streaming video recorder for camera.
+Use OpenCV-Python and Flask to create a Face recogniser also acts as an Intrusion Detector.
 
 ## Environment
 * Python 2.7 or 3.5
@@ -24,3 +24,9 @@ Use OpenCV-Python and Flask to create a web streaming video recorder for camera.
     ```
     pip install SQLAlchmey
     ```
+4. Install **smtp-lib**
+    ```
+    pip install secure-smtplib
+    ```
+    
+ 
