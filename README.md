@@ -1,6 +1,6 @@
 # Streaming Video Recorder
 Use OpenCV-Python and Flask to create a Face recogniser also acts as an Intrusion Detector.
-
+This project basically captures the image of the intruder and sends it to the assosiated user mail if the face doesnt match.
 ## Environment
 * Python 2.7 or 3.5
 * OpenCV 3.3.0
